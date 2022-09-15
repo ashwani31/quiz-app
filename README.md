@@ -1,6 +1,4 @@
-Title: *The Queen's English Assignment*
-Author Name: *Vipul Wakodikar*
-**Game URl:** https://vipul-wakodikar.github.io/QueensEnglish_Quiz/
+
 **Introduction:**
 Given Game is a Quiz Game in which Random questions are provided to users and they have to enter correct response. The Game is created with the help of React JS
 
